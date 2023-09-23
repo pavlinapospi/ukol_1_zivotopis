@@ -1,0 +1,25 @@
+h1 {
+  text-align: center;
+}
+
+.nastred {
+  text-align: center;
+}
+
+td {
+  border: 1px solid black;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+.zkusenosti {
+  width: 400px;
+  background-color: antiquewhite;
+  border-radius: 5px;
+}
+
+.nastred {
+  text-align: center;
+}
